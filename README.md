@@ -15,5 +15,8 @@
   
   Feel free to explore and modify the code to suit your specific requirements.</p>
   
+  <video width="320" height="240" controls>
+    <source src="example.mp4" type="video/mp4">
+  </video>
 </body>
 </html>
