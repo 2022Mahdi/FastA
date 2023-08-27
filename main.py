@@ -11,7 +11,6 @@ def blacken_inside(img, points):
     blackened_img = cv2.bitwise_and(img, mask)
     return blackened_img
 
-points = []
 
 def click_event(event, x, y, flags, params):
     global points
